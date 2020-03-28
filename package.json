@@ -1,0 +1,19 @@
+{
+  "name": "arkadialla",
+  "version": "1.0.0",
+  "description": "Eduskunnan dataa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzaeru/arkadialla.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tzaeru/arkadialla/issues"
+  },
+  "homepage": "https://github.com/tzaeru/arkadialla#readme"
+}
